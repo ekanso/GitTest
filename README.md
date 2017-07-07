@@ -1,6 +1,6 @@
-#Notes
+# Notes
 
-##Planning
+## Planning
 
 Use Zenhub (a browser add-on) for visualizing issues.
 
